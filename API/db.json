@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "id": "a1BVBtbwtL5NtkSRZOeIA",
+      "username": "Test",
+      "email": "ttt",
+      "streamKey": "My First Stream",
+      "streamName": "My First Stream",
+      "streamDetails": "My First Stream",
+      "date": "2022-09-23T14:58:50.361Z"
+    },
+    {
+      "id": "UI_2W9YW6xD2BPuAJeYNs",
+      "username": "Test",
+      "email": "ttt",
+      "streamKey": "My Second Stream",
+      "streamName": "My Second Stream",
+      "streamDetails": "My Second Stream",
+      "date": "2022-09-23T14:59:28.913Z"
+    },
+    {
+      "id": "FvN_BZdbIP62clXbtYYEm",
+      "username": "Test",
+      "email": "ttt",
+      "streamKey": "My Third Stream",
+      "streamName": "My Third Stream",
+      "streamDetails": "My Third Stream",
+      "date": "2022-09-23T14:59:43.297Z"
+    },
+    {
+      "id": "1bocPrVm3mbnn7lqDXEXO",
+      "username": "Crzy Ghost",
+      "email": "n3ra.55@gmail.com",
+      "streamKey": "testStream",
+      "streamName": "My first test stream",
+      "streamDetails": "My first test stream",
+      "date": "2022-09-23T21:09:25.017Z"
+    },
+    {
+      "id": "QXrwPmcEb3FH076oMyqO_",
+      "username": "Crzy Ghost",
+      "email": "n3ra.55@gmail.com",
+      "streamKey": "Dzeno",
+      "streamName": "Dzeno",
+      "streamDetails": "Dzeno",
+      "date": "2022-09-29T19:07:04.379Z"
+    }
+  ]
+}

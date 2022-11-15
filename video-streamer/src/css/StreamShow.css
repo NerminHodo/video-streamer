@@ -1,0 +1,23 @@
+.streamDiv {
+  position: relative;
+}
+.overlayDiv {
+  color: red;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  z-index: 10;
+  cursor: default;
+  user-select: none;
+}
+
+.streamInfo {
+}
+
+.infoStreamName {
+  padding: 1rem;
+}
+
+.infoStreamDescription {
+  padding: 1rem;
+}
